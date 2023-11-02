@@ -1,4 +1,3 @@
-Developer competitions, also known as hackathons or coding challenges, often have a set of common requirements to ensure fair and successful participation. These requirements can vary depending on the specific competition, but here are some common elements:
 
 1. Eligibility:
    - Participants must meet specific eligibility criteria, which may include age restrictions, geographical limitations, or professional backgrounds.
