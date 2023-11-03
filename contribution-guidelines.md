@@ -1,8 +1,8 @@
 Certainly! Here are some contribution guidelines that you can use for your GitHub repository:
 
-# [Repository Name] Contribution Guidelines
+# BOSS.Tech Contribution Guidelines
 
-Welcome to the [Repository Name] project! We're excited to have you contribute. Before you get started, please take a moment to review the following guidelines to make the contribution process as smooth as possible.
+Welcome to the BOSS.Tech project! We're excited to have you contribute. Before you get started, please take a moment to review the following guidelines to make the contribution process as smooth as possible.
 
 ## Table of Contents
 
@@ -77,6 +77,7 @@ Contributions to documentation are highly valuable. If you find gaps or inaccura
 ## License
 
 By contributing to this project, you agree that your contributions will be licensed under the project's license (mention the specific license, e.g., MIT, Apache 2.0). Make sure you have read and understand the project's license before contributing.
+TODO:(cr) - Confirm license with C-Suite
 
 Thank you for considering contributing to the [Repository Name] project! Your help is greatly appreciated.
 
