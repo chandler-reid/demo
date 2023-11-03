@@ -56,6 +56,6 @@ We reserve the right to modify and update this security policy as needed. It is 
 
 Last Updated: 2023.11.03
 
-Contact Information
+## Contact Information
 
 If you have any questions or need to report a security issue, please contact our security team via email at security@boss.tech
