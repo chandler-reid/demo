@@ -1,5 +1,3 @@
-Certainly! Here are some contribution guidelines that you can use for your GitHub repository:
-
 # BOSS.Tech Contribution Guidelines
 
 Welcome to the BOSS.Tech project! We're excited to have you contribute. Before you get started, please take a moment to review the following guidelines to make the contribution process as smooth as possible.
