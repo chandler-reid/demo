@@ -64,7 +64,7 @@ Use descriptive and clear commit messages. Follow a convention such as [Conventi
 
 ## Testing
 
-Explain how to run tests and provide examples of the expected outcomes.
+TODO:(cr, mc, ks, gr, bd) Explain how to run tests and provide examples of the expected outcomes.
 
 ## Code Review
 
@@ -79,6 +79,6 @@ Contributions to documentation are highly valuable. If you find gaps or inaccura
 By contributing to this project, you agree that your contributions will be licensed under the project's license (mention the specific license, e.g., MIT, Apache 2.0). Make sure you have read and understand the project's license before contributing.
 TODO:(cr) - Confirm license with C-Suite
 
-Thank you for considering contributing to the [Repository Name] project! Your help is greatly appreciated.
+Thank you for considering contributing to the BOSS.Tech project! Your help is greatly appreciated.
 
 If you have any questions or need assistance, feel free to contact us in the [Discussions](https://github.com/your-username/repo-name/discussions) or [Issues](https://github.com/your-username/repo-name/issues) section.
