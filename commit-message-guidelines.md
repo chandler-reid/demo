@@ -9,7 +9,7 @@ Welcome to the commit message guidelines for BOSS.Tech. These guidelines are des
 1. **Keep It Concise**: Commit messages should be brief and to the point. Aim for clarity without unnecessary verbosity.
 
 2. **Focus on the What and Why**: Explain what the commit does and why it's necessary. If it fixes an issue, reference the issue number.
-
+TODO:(cr) - will we be using issues here? 
 3. **Use Imperative Mood**: Write commit messages in the imperative mood (e.g., "Add feature" rather than "Added feature").
 
 4. **Separate Subject and Body**: If necessary, provide a more detailed explanation in the body of the commit message, separated by a blank line.
