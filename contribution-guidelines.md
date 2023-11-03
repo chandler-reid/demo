@@ -37,7 +37,7 @@ To contribute code to this project, follow these steps:
 2. Clone your fork to your local development environment.
 3. Create a new branch for your feature or bug fix.
 4. Make your changes and test them thoroughly.
-5. Commit your changes with clear and concise commit messages (see [Commit Message Guidelines](./commit-message-guidelines)).
+5. Commit your changes with clear and concise commit messages (see [Commit Message Guidelines](./commit-message-guidelines.md)).
 6. Push your changes to your fork on GitHub.
 7. Create a pull request (PR) to the main repository's `main` branch.
 8. Ensure your PR includes a detailed description of the changes.
