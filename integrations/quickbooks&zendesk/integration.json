@@ -1,0 +1,6 @@
+{
+    "service": "quickbooks",
+    "auth": "abc123",
+    "service2": "zendesk",
+    "auth2": "xyz456"
+}
