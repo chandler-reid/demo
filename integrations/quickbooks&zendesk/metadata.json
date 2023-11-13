@@ -1,0 +1,5 @@
+{ 
+  "user": "userID", // your BOSS.Tech user ID
+  "company": "companyID", // your BOSS.Tech company ID 
+  "encrypted": true, // whether or not the integration.json file is encrypted
+} 
