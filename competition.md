@@ -102,11 +102,12 @@ Submissions to the Competition will be judged by a panel of BOSS.Tech personnel,
 
 - Felicite Moorman, CEO 
 - Ryan Buchert, CTO 
-- Breton Dietrich, Product Owner
-- Chandler Reid, Community
+- Breton Dietrich, Product Owner 
+- Jasper Lloyd, VP, Creative 
+- Chandler Reid, Community 
 - , Backend Developer 
 - , Frontend Developer 
-- , Developer
+- , Developer 
 
 The judges will evaluate submissions based on a the criteria outlined above for all applicable categories. Each 
 criteria will be scored on a scale of 1-10, with 10 being the highest score. The scores for each criteria will be 
