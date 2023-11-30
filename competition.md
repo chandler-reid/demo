@@ -75,6 +75,9 @@ The following criteria will be used to evaluate submissions
 
 - Complexity
 - Creativity
+- Impact
+- Usability
+- Adherence to the Problem Statement
 
 ### Highest Number of Submitted Integrations
 
